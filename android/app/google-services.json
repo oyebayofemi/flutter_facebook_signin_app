@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738045373652",
+    "project_id": "facebook-signing-practice",
+    "storage_bucket": "facebook-signing-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738045373652:android:6a1d47bca628f7093ddf41",
+        "android_client_info": {
+          "package_name": "com.example.facebook_signin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738045373652-i9aqntldjs03m3qe81s7i09lohi8pkka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facebook_signin_app",
+            "certificate_hash": "e2789f0b24f0d0b0274dc2aa0816bef588418618"
+          }
+        },
+        {
+          "client_id": "738045373652-3vkegaa8nm5450umks6sr8tm53dfjc74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMPu3IG-YTdaWeRvRjlPhZtyRCELtxsDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738045373652-3vkegaa8nm5450umks6sr8tm53dfjc74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
